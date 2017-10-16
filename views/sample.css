@@ -1,0 +1,21 @@
+/*.well {
+    background: rgb(54, 10, 235);
+	padding = 20px;
+	color = white;
+}*/
+.header{             
+top:0;        
+left:0;        
+width:100%; 
+background-color: black;
+}  
+
+
+
+a:hover{
+	
+    background-color: white;
+    color: black;
+	
+}
+
